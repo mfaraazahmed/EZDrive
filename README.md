@@ -14,7 +14,7 @@ git clone ssh-link-here
 cd EZDrive
 npm i express
 npm i body-parser
-npm i morgon
+npm i morgan
 ```
 
 
